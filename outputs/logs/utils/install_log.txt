@@ -1,0 +1,4 @@
+package ‘rtry’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\tor_h\AppData\Local\Temp\Rtmpm2mKGx\downloaded_packages
