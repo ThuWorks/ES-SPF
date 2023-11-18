@@ -1,2 +1,5 @@
 .Rdata
 .Rhistory
+.Rproj.user
+./resources/classification.csv
+./resources/WFO_Backbone.zip
