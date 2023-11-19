@@ -1,1 +1,0 @@
-# insect_df = acquire_species_data(src ="./resources/...", colName = "validScientificName", taxon_name = "insects")
