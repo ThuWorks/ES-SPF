@@ -18,6 +18,7 @@ expand_vect = function(polygon, distance = 0) {
   prj <- "+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs"
   
   # Give projection if there are not any already
+
   polygon_transformed <- project(polygon, prj)
   
   # Expand polygon by the given distance

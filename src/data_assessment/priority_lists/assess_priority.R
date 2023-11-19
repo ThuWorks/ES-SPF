@@ -1,6 +1,6 @@
-souce_all("./src/data_analysis/components/")
+source_all("./src/data_assessment/priority_lists/components")
 
-analyze_bio_data <- function(df, column, taxon_name, sel_cols) {
+assess_priority <- function() {
   
   
   cleaned_pri_long <- clean_priority_long(df, taxon_name, sel_cols)
@@ -12,6 +12,4 @@ analyze_bio_data <- function(df, column, taxon_name, sel_cols) {
   filtered_pri_short <- filter_priority(cleaned_pri_short, taxon_name)
   
   cat("priority Levels have been filtered and output. \n")
-  
-  return()
 }
