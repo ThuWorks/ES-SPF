@@ -1,8 +1,8 @@
-wrangle_iv_tyler = function(src = "./resources/wrangle/ivs/tyler.csv", column = "scientificName") {
+wrangle_iv_tyler <- function(src = "./resources/data_raw/ivs/tyler.csv", column = "scientificName") {
   cat(cc$aquamarine("Wrangling Tyler et al. indicator values \n"))
-  df_tyler = fread(src)
-  
-  df_tyler_formatted = df_tyler %>% 
+  df_tyler <- fread(src)
+
+  df_tyler_formatted <- df_tyler %>%
     select(
       1:2,
       9:34,
@@ -19,14 +19,12 @@ wrangle_iv_tyler = function(src = "./resources/wrangle/ivs/tyler.csv", column = 
     return(name)
   })
   setnames(df_tyler_formatted, colnames(df_tyler_formatted), names)
-  
+
   # Set the fist column to column name
-  names(df_tyler_formatted)[1] = column
-  
+  names(df_tyler_formatted)[1] <- column
+
   # Set encoding to UTF8
-  for (name in names(df_tyler_formatted)[sapply(df_tyler_formatted, is.character)]) {
-    df_tyler_formatted[[name]] = enc2utf8(df_tyler_formatted[[name]])
-  }
-  
+  df_tyler_formatted <- set_df_utf8(df_tyler_formatted)
+
   return(df_tyler_formatted)
 }

@@ -5,5 +5,5 @@ source_all <- function(dir) {
   # Source each file
   lapply(r_files, source)
   
-  cat(length(r_files), "R scripts sourced from", dir, "and its subdirectories.\n")
+  cat(length(r_files), "scripts sourced from", dir, "and its subdirectories.\n")
 }

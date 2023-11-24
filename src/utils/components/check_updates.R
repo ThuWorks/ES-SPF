@@ -2,9 +2,9 @@ check_updates <- function(pkgs) {
   message("Setting up packages.")
 
   # Specify the log file path
-  if (!dir.exists(paste0("./outputs/logs/utils"))) dir.create(paste0("./outputs/logs/utils"), recursive = T)
+  if (!dir.exists(paste0("./outputs/utils/logs"))) dir.create(paste0("./outputs/utils/logs"), recursive = T)
 
-  log_file <- file.path("outputs/logs/utils/install_log.txt")
+  log_file <- file.path("outputs/utils/logs/install_log.txt")
 
   # Check for missing packages
   missing_pkgs <- pkgs[!pkgs %in% installed.packages()[, "Package"]]

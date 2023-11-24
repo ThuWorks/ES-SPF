@@ -1,4 +1,4 @@
-get_gbif_count <- function(region, taxon_name) {
+get_gbif_count <- function(taxon_name, region) {
   cat("Collecting GBIF species Keys \n")
 
   cat("Getting count of species using the wkt: \n", region, "\n")
@@ -14,6 +14,10 @@ get_gbif_count <- function(region, taxon_name) {
   )$speciesKey
 
   cat(cc$aquamarine(length(unique(gbif_count))), green("unique species keys collected \n"))
+  
+  if (!dir.exists(paste0("./outputs/data_acquisition/", taxon_name))) dir.create(paste0("./outputs/data_acquisition/", taxon_name), recursive = T)
+  
+  fwrite(data.frame(gbif_count), paste0("./outputs/data_acquisition/", taxon_name, "/gbif_count.csv"), bom = T)
 
   return(gbif_count)
 }

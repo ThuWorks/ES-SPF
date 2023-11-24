@@ -1,4 +1,4 @@
-log_duplicates <- function(df, column, folder_name, file_name) {
+log_duplicates <- function(df, column, process, folder_name, file_name) {
   
   df <- as.data.frame(df)
   
@@ -9,7 +9,7 @@ log_duplicates <- function(df, column, folder_name, file_name) {
   
   dups_n <- nrow(log_out_df)
   
-  log_path <- file.path("./outputs/logs", folder_name)
+  log_path <- file.path("./outputs", process, "logs", folder_name)
   if (!dir.exists(log_path)) dir.create(log_path, recursive = T)
   
   output_log_path <- file.path(log_path, file_name)

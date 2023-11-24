@@ -1,6 +1,6 @@
-wrangle_csr_pierce <- function(src = "./resources/wrangle/csr/csr_pierce.csv", column = "scientificName") {
-  cat(cc$aquamarine("Wrangling csr_values \n"))
-  
+wrangle_csr_pierce <- function(src = "./resources/data_raw/csr/csr_pierce.csv", column = "scientificName") {
+  cat(cc$aquamarine("Wrangling Pierce et al. csr_values \n"))
+
   csr_df <- fread(src)
 
   names(csr_df)[1] <- column
@@ -129,6 +129,8 @@ wrangle_csr_pierce <- function(src = "./resources/wrangle/csr/csr_pierce.csv", c
   } else {
     cat("Some of the CSR species are blank: ", green("False"), "\n")
   }
+  
+  csr_df_formatted <- set_df_utf8(csr_df_formatted)
 
   cat(cc$aquamarine("Wrangled CSR values \n"))
 
