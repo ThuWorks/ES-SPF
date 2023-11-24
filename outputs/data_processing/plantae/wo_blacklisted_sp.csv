@@ -1,0 +1,389 @@
+﻿validScientificName,scientificNameAuthorship,phylum,order,family,genus,taxonRank,iucnRedListCategory,decimalLongitude,decimalLatitude,coordinateUncertaintyInMeters,year,nomenclaturalStatus,taxonomicStatus,New.accepted,Old.name,One.Reason,datasetKey
+Rosa dumalis,Tratt. ex Link,Tracheophyta,Rosales,Rosaceae,Rosa,species,NE,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"",smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Potentilla brauniana,Hoppe ex Nestl.,Tracheophyta,Rosales,Rosaceae,Potentilla,species,NE,10.421625,63.44528,5,2022,Valid,Accepted,TRUE,Potentilla verna var. nana,"",b124e1e0-4755-430f-9eab-894f25a9b59c
+Mesoptychia bantriensis,(Hook.) L. Söderstr. & Váňa,Marchantiophyta,Jungermanniales,Jungermanniaceae,Mesoptychia,species,NE,10.4235,63.4454,1414,1888,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Weissia controversa,Hedw.,Bryophyta,Pottiales,Pottiaceae,Weissia,species,NE,10.4226,63.4447,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Petrosedum rupestre,(L.) P.V.Heath,Tracheophyta,Saxifragales,Crassulaceae,Petrosedum,species,NE,10.422622,63.444774,10,2023,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Ptychostomum pendulum,Hornsch.,Bryophyta,Bryales,Bryaceae,Ptychostomum,species,NE,10.4235,63.4454,1414,1890,Valid,Accepted,TRUE,Ptychostomum compactum,"",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Hepatica nobilis,Schreb.,Tracheophyta,Ranunculales,Ranunculaceae,Hepatica,species,NE,10.42111,63.445032,8,2023,Valid,Accepted,FALSE,"",smallest ID,50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Plantago lanceolata,L.,Tracheophyta,Lamiales,Plantaginaceae,Plantago,species,NE,10.422108,63.445358,3,2021,Valid,Accepted,FALSE,"","",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Galium verum,L.,Tracheophyta,Gentianales,Rubiaceae,Galium,species,NE,10.421208,63.445242,5,2023,Valid,Accepted,TRUE,Galium verum f. verum,smallest ID,8a863029-f435-446a-821e-275f4f641165
+Lotus corniculatus,L.,Tracheophyta,Fabales,Fabaceae,Lotus,species,NE,10.420942,63.445461,100,2023,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Knautia arvensis,(L.) Coult.,Tracheophyta,Dipsacales,Caprifoliaceae,Knautia,species,NE,10.426153,63.444461,5,2020,Valid,Accepted,FALSE,"",smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Grimmia pulvinata,(Hedw.) Sm.,Bryophyta,Grimmiales,Grimmiaceae,Grimmia,species,NE,10.427276,63.444076,5,2023,Valid,Accepted,FALSE,"",Accepted,b124e1e0-4755-430f-9eab-894f25a9b59c
+Anthyllis vulneraria,L.,Tracheophyta,Fabales,Fabaceae,Anthyllis,species,NE,10.427356,63.444124,5,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Draba verna,L.,Tracheophyta,Brassicales,Brassicaceae,Draba,species,NE,10.421858,63.445283,8,2023,Valid,Accepted,TRUE,Draba verna var. major,"",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Clinopodium vulgare,L.,Tracheophyta,Lamiales,Lamiaceae,Clinopodium,species,NE,10.427356,63.444124,5,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Vicia cracca,L.,Tracheophyta,Fabales,Fabaceae,Vicia,species,LC,10.427356,63.444124,5,2020,Valid,Accepted,TRUE,Vicia cracca f. cracca,smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Tortula subulata,Hedw.,Bryophyta,Pottiales,Pottiaceae,Tortula,species,NE,10.4226,63.4447,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Viola mirabilis f. seiichii,E.Hama,Tracheophyta,Malpighiales,Violaceae,Viola,form,NE,10.421993,63.445228,10,2015,"",Unchecked,FALSE,"",smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Encalypta brevicollis,(Bruch & Schimp.) Ångström,Bryophyta,Encalyptales,Encalyptaceae,Encalypta,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ptychostomum inclinatum,(Sw. ex Brid.) J.R.Spence,Bryophyta,Bryales,Bryaceae,Ptychostomum,species,NE,10.4216,63.4452,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ptychostomum pallescens,(Schleich. ex Schwägr.) J.R.Spence,Bryophyta,Bryales,Bryaceae,Ptychostomum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Polygonatum odoratum,(Mill.) Druce,Tracheophyta,Asparagales,Asparagaceae,Polygonatum,species,NE,10.421715,63.445212,10,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Galium boreale,L.,Tracheophyta,Gentianales,Rubiaceae,Galium,species,NE,10.426207,63.444553,5,2020,Valid,Accepted,TRUE,Galium boreale var. nudum,smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Saxifraga tridactylites,L.,Tracheophyta,Saxifragales,Saxifragaceae,Saxifraga,species,NE,10.421931,63.44526,5,2022,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Draba incana,L.,Tracheophyta,Brassicales,Brassicaceae,Draba,species,NE,10.42185,63.445276,25,2012,Valid,Accepted,TRUE,Draba incana f. tenuis,smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Hypericum perforatum,L.,Tracheophyta,Malpighiales,Hypericaceae,Hypericum,species,NE,10.421859,63.445236,23,2021,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Schistidium maritimum,(Turner ex Robt.Scott) Bruch & Schimp.,Bryophyta,Grimmiales,Grimmiaceae,Schistidium,species,NE,10.4235,63.4454,1414,1889,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Grimmia ovalis,(Hedw.) Lindb.,Bryophyta,Grimmiales,Grimmiaceae,Grimmia,species,NE,10.4235,63.4454,1414,1890,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Rosa subcollina,(Christ) Dalla Torre & Sarnth.,Tracheophyta,Rosales,Rosaceae,Rosa,species,NE,10.4235,63.4454,1414,1938,Valid,Accepted,FALSE,"",Accepted,d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Mesoptychia collaris,(Nees) L. Söderstr. & Váňa,Marchantiophyta,Jungermanniales,Jungermanniaceae,Mesoptychia,species,NE,10.4235,63.4454,1414,1888,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Hedlundia hybrida,(L.) Sennikov & Kurtto,Tracheophyta,Rosales,Rosaceae,Hedlundia,species,NE,10.421859,63.445236,23,2021,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Isopterygiella pulchella,(Hedw.) Ignatov & Ignatova,Bryophyta,Hypnales,"",Isopterygiella,species,NE,10.4235,63.4454,1414,1971,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Stegonia latifolia,(Schwägr.) Venturi ex Broth.,Bryophyta,Pottiales,Pottiaceae,Stegonia,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Cratoneuron filicinum,(Hedw.) Spruce,Bryophyta,Hypnales,Amblystegiaceae,Cratoneuron,species,NE,10.4262,63.4443,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Allium oleraceum var. alpestre,Brügger,Tracheophyta,Asparagales,Amaryllidaceae,Allium,variety,NE,10.422649,63.44469,5,2020,"",Unchecked,FALSE,"",smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Alchemilla glaucescens,Wallr.,Tracheophyta,Rosales,Rosaceae,Alchemilla,species,NE,10.421715,63.445212,10,2020,Valid,Accepted,TRUE,Alchemilla glaucescens var. alpina,"",b124e1e0-4755-430f-9eab-894f25a9b59c
+Tussilago farfara,L.,Tracheophyta,Asterales,Asteraceae,Tussilago,species,NE,10.421849,63.444854,8,2023,Valid,Accepted,FALSE,"","",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Kindbergia praelonga,(Hedw.) Ochyra,Bryophyta,Hypnales,Brachytheciaceae,Kindbergia,species,NE,10.4235,63.4454,1414,1896,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Viola adunca,Sm.,Tracheophyta,Malpighiales,Violaceae,Viola,species,NE,10.421859,63.445236,23,2021,Valid,Accepted,TRUE,Viola canina var. adunca,"",b124e1e0-4755-430f-9eab-894f25a9b59c
+Hypochaeris maculata,L.,Tracheophyta,Asterales,Asteraceae,Hypochaeris,species,NE,10.427356,63.444124,5,2020,Valid,Accepted,TRUE,Trommsdorffia maculata subsp. maculata,"",b124e1e0-4755-430f-9eab-894f25a9b59c
+Sciuro-hypnum reflexum,(Starke) Ignatov & Huttunen,Bryophyta,Hypnales,Brachytheciaceae,Sciuro-hypnum,species,NE,10.4235,63.4454,1414,1971,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Hieracium bifidum  subsp. stenolepis,(Lindeb.) Zahn,Tracheophyta,Asterales,Asteraceae,Hieracium,subspecies,NE,10.4235,63.4454,1414,1938,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Potentilla argentea,L.,Tracheophyta,Rosales,Rosaceae,Potentilla,species,NE,10.421653,63.445124,8,2021,Valid,Accepted,FALSE,"",Accepted,50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Trichostomum littorale,Mitt.,Bryophyta,Pottiales,Pottiaceae,Trichostomum,species,,10.4235,63.4454,1414,1896,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Cheirolophus sempervirens,Pomel,Tracheophyta,Asterales,Asteraceae,Cheirolophus,species,NE,10.427024,63.444321,5,2020,Valid,Accepted,TRUE,Centaurea montana var. alba,"",b124e1e0-4755-430f-9eab-894f25a9b59c
+Arabis hirsuta,(L.) Scop.,Tracheophyta,Brassicales,Brassicaceae,Arabis,species,NE,10.422649,63.44469,5,2020,Valid,Accepted,FALSE,"",Not a synonym,b124e1e0-4755-430f-9eab-894f25a9b59c
+Syntrichia ruralis,(Hedw.) F.Weber & D.Mohr,Bryophyta,Pottiales,Pottiaceae,Syntrichia,species,NE,10.4235,63.4454,1414,1988,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Homalothecium sericeum,(Hedw.) Schimp.,Bryophyta,Hypnales,Brachytheciaceae,Homalothecium,species,NE,10.420942,63.445461,100,2023,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Distichium inclinatum,(Hedw.) Bruch & Schimp.,Bryophyta,Scouleriales,Distichiaceae,Distichium,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Carex pallidula,Harmaja,Tracheophyta,Poales,Cyperaceae,Carex,species,NE,10.421609,63.4452,8,2023,Valid,Accepted,TRUE,Carex digitata f. pallens,"",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Corylus avellana,L.,Tracheophyta,Fagales,Betulaceae,Corylus,species,LC,10.425972,63.44399,5,2022,Valid,Accepted,TRUE,Corylus avellana f. aurea,"",14d5676a-2c54-4f94-9023-1e8dcd822aa0
+Geranium sylvaticum,L.,Tracheophyta,Geraniales,Geraniaceae,Geranium,species,NE,10.426153,63.444461,5,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Ribes alpinum var. pilosum,Regel,Tracheophyta,Saxifragales,Grossulariaceae,Ribes,variety,NE,10.421859,63.445236,23,2021,"",Unchecked,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Rubus saxatilis f. repens,Kuntze,Tracheophyta,Rosales,Rosaceae,Rubus,form,NE,10.421715,63.445212,10,2020,"",Unchecked,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Berberis lycium,Royle,Tracheophyta,Ranunculales,Berberidaceae,Berberis,species,NE,10.421859,63.445236,23,2021,Valid,Accepted,TRUE,Berberis vulgaris f. lycium,smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Verbascum nigrum,L.,Tracheophyta,Lamiales,Scrophulariaceae,Verbascum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Verbascum nigrum f. leucerion,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Euphrasia stricta,J.P.Wolff ex J.F.Lehm.,Tracheophyta,Lamiales,Orobanchaceae,Euphrasia,species,NE,10.420942,63.445461,100,2023,Valid,Accepted,FALSE,"",Not a synonym,b124e1e0-4755-430f-9eab-894f25a9b59c
+Campylium stellatum,(Hedw.) C.E.O.Jensen,Bryophyta,Hypnales,Amblystegiaceae,Campylium,species,NE,10.4262,63.4443,1,2009,Valid,Accepted,TRUE,Campylium protensum,"",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Encalypta rhaptocarpa,Schwägr.,Bryophyta,Encalyptales,Encalyptaceae,Encalypta,species,NE,10.4232,63.4447,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Encalypta vulgaris,Hedw.,Bryophyta,Encalyptales,Encalyptaceae,Encalypta,species,NE,10.4226,63.4447,10,2017,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Zygodon viridissimus,(Dicks.) Brid.,Bryophyta,Orthotrichales,Orthotrichaceae,Zygodon,species,NE,10.4235,63.4454,1414,1897,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Potentilla erecta,(L.) Raeusch.,Tracheophyta,Rosales,Rosaceae,Potentilla,species,NE,10.421715,63.445212,10,2020,Valid,Accepted,FALSE,"",Not a synonym,b124e1e0-4755-430f-9eab-894f25a9b59c
+Geum hispidum,Fr.,Tracheophyta,Rosales,Rosaceae,Geum,species,NE,10.42185,63.445276,25,2012,Valid,Accepted,TRUE,Geum urbanum var. hispidum,Accepted,b124e1e0-4755-430f-9eab-894f25a9b59c
+Campanula rotundifolia,L.,Tracheophyta,Asterales,Campanulaceae,Campanula,species,NE,10.426153,63.444461,5,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Hypericum maculatum,Crantz,Tracheophyta,Malpighiales,Hypericaceae,Hypericum,species,NE,10.421715,63.445212,10,2020,Valid,Accepted,FALSE,"",Not a synonym,b124e1e0-4755-430f-9eab-894f25a9b59c
+Pimpinella saxifraga,L.,Tracheophyta,Apiales,Apiaceae,Pimpinella,species,NE,10.421859,63.445236,23,2021,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Ptychostomum pallens,(Sw.) J.R.Spence,Bryophyta,Bryales,Bryaceae,Ptychostomum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Amblystegium serpens,(Hedw.) Schimp.,Bryophyta,Hypnales,Amblystegiaceae,Amblystegium,species,NE,10.4235,63.4454,1414,1889,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Veronica chamaedrys,L.,Tracheophyta,Lamiales,Plantaginaceae,Veronica,species,NE,10.426153,63.444461,5,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Buckia vaucheri,"(Lesq.) D. Ríos, M.T. Gallego & J. Guerra",Bryophyta,Hypnales,Pylaisiaceae,Buckia,species,NE,10.4235,63.4454,1414,1889,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Pseudanomodon attenuatus,(Hedw.) Ignatov & Fedosov,Bryophyta,Hypnales,"",Pseudanomodon,species,NE,10.4235,63.4454,1414,1888,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Plenogemma phyllantha,"(Brid.) Sawicki, Plášek & Ochyra",Bryophyta,Orthotrichales,Orthotrichaceae,Plenogemma,species,NE,10.4235,63.4454,1414,1897,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Geheebia ferruginea,(Schimp. ex Besch.) R.H. Zander,Bryophyta,Pottiales,Pottiaceae,Geheebia,species,NE,10.4235,63.4454,1414,1894,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Bryoerythrophyllum recurvirostrum,(Hedw.) P.C.Chen,Bryophyta,Pottiales,Pottiaceae,Bryoerythrophyllum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Tortella fragilis,(Hook. & Wilson) Limpr.,Bryophyta,Pottiales,Pottiaceae,Tortella,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Orthotrichum cupulatum,Hoffm. ex Brid.,Bryophyta,Orthotrichales,Orthotrichaceae,Orthotrichum,species,NE,10.4235,63.4454,1414,1891,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Hylocomium splendens,(Hedw.) Schimp.,Bryophyta,Hypnales,Hylocomiaceae,Hylocomium,species,NE,10.4235,63.4454,1414,1954,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Isothecium alopecuroides,(Lam. ex Dubois) Isov.,Bryophyta,Hypnales,Lembophyllaceae,Isothecium,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Eurhynchium striatum,(Schreb. ex Hedw.) Schimp.,Bryophyta,Hypnales,Brachytheciaceae,Eurhynchium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Pseudoleskeella tectorum,(Funck ex Brid.) Kindb. ex Broth.,Bryophyta,Hypnales,Leskeaceae,Pseudoleskeella,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Platydictya jungermannioides,(Brid.) H.A.Crum,Bryophyta,Hypnales,Plagiotheciaceae,Platydictya,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Pterigynandrum filiforme,Hedw.,Bryophyta,Hypnales,Pterigynandraceae,Pterigynandrum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Hypnum cupressiforme,Hedw.,Bryophyta,Hypnales,Hypnaceae,Hypnum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ctenidium molluscum,(Hedw.) Mitt.,Bryophyta,Hypnales,Hypnaceae,Ctenidium,species,NE,10.4262,63.4443,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Conocephalum conicum,(L.) Underw.,Marchantiophyta,Marchantiales,Conocephalaceae,Conocephalum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Luzula pilosa,(L.) Willd.,Tracheophyta,Poales,Juncaceae,Luzula,species,NE,10.422191,63.445275,8,2021,Valid,Accepted,FALSE,"","",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Luzula multiflora  subsp. multiflora,"",Tracheophyta,Poales,Juncaceae,Luzula,subspecies,,10.4218,63.4452,7,2008,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Poa alpina var. nana,Latourr.,Tracheophyta,Poales,Poaceae,Poa,variety,NE,10.421868,63.445268,5,2010,"",Unchecked,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Poa compressa var. laxa,Scribn.,Tracheophyta,Poales,Poaceae,Poa,variety,NE,10.4234,63.4449,7,2008,"",Unchecked,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Carex flacca,Schreb.,Tracheophyta,Poales,Cyperaceae,Carex,species,NE,10.4216,63.4453,7,2008,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Linum catharticum,L.,Tracheophyta,Malpighiales,Linaceae,Linum,species,NE,10.421715,63.445212,10,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Vaccinium vitis-idaea,L.,Tracheophyta,Ericales,Ericaceae,Vaccinium,species,LC,10.421859,63.445236,23,2021,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Succisa pratensis,Moench,Tracheophyta,Dipsacales,Caprifoliaceae,Succisa,species,NE,10.421715,63.445212,10,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Convolvulus arvensis,L.,Tracheophyta,Solanales,Convolvulaceae,Convolvulus,species,NE,10.424949,63.444353,10,2007,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Vicia sepium,L.,Tracheophyta,Fabales,Fabaceae,Vicia,species,LC,10.42185,63.445276,25,2012,Valid,Accepted,TRUE,Vicia sepium var. alba,smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Rubus idaeus  f. succineus,Rehder,Tracheophyta,Rosales,Rosaceae,Rubus,form,NE,10.421859,63.445236,23,2021,Valid,Accepted,TRUE,Rubus idaeus f. albus,Accepted,b124e1e0-4755-430f-9eab-894f25a9b59c
+Prunus padus f. glauca,(Nakai) Kitag.,Tracheophyta,Rosales,Rosaceae,Prunus,form,LC,10.42202,63.445503,6,2021,"",Unchecked,FALSE,"","",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Alchemilla monticola,Opiz,Tracheophyta,Rosales,Rosaceae,Alchemilla,species,NE,10.426153,63.444461,5,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Populus tremula f. rthensis,T.Bunusevac & S.Jovanovic,Tracheophyta,Malpighiales,Salicaceae,Populus,form,LC,10.421303,63.445625,,2020,"",Unchecked,FALSE,"","",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Descurainia sophia,(L.) Webb ex Prantl,Tracheophyta,Brassicales,Brassicaceae,Descurainia,species,NE,10.4235,63.4454,1414,1923,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Erysimum virgatum,Roth,Tracheophyta,Brassicales,Brassicaceae,Erysimum,species,NE,10.42185,63.445276,25,2012,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Arabidopsis thaliana,(L.) Heynh.,Tracheophyta,Brassicales,Brassicaceae,Arabidopsis,species,NE,10.421859,63.445236,23,2021,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Sagina nodosa,(L.) Fenzl,Tracheophyta,Caryophyllales,Caryophyllaceae,Sagina,species,NE,10.42185,63.445276,25,2012,Valid,Accepted,FALSE,"",Not a synonym,b124e1e0-4755-430f-9eab-894f25a9b59c
+Senecio dubitabilis,C.Jeffrey & Y.L.Chen,Tracheophyta,Asterales,Asteraceae,Senecio,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Senecio vulgaris var. dubius,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Lapsana communis  subsp. alpina,(Boiss. & Balansa) P.D.Sell,Tracheophyta,Asterales,Asteraceae,Lapsana,subspecies,NE,10.425461,63.444108,25,2023,Valid,Accepted,FALSE,"",smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Hieracium umbellatum,L.,Tracheophyta,Asterales,Asteraceae,Hieracium,species,NE,10.4236,63.445,7,2008,Valid,Accepted,FALSE,"",Not a synonym,d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Scapania calcicola,(Arnell & J.Perss.) W.Ingham,Marchantiophyta,Jungermanniales,Scapaniaceae,Scapania,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Pseudoleskeella nervosa,(Brid.) Nyholm,Bryophyta,Hypnales,Leskeaceae,Pseudoleskeella,species,NE,10.4235,63.4454,1414,1891,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Plagiobryum zierii,(Dicks. ex Hedw.) Lindb.,Bryophyta,Bryales,Bryaceae,Plagiobryum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Barbula convoluta,Hedw.,Bryophyta,Pottiales,Pottiaceae,Barbula,species,NE,10.4226,63.4447,1,2009,Valid,Accepted,TRUE,Streblotrichum convolutum,"",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Encalypta streptocarpa,Hedw.,Bryophyta,Encalyptales,Encalyptaceae,Encalypta,species,NE,10.4232,63.4447,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Encalypta ciliata,Hedw.,Bryophyta,Encalyptales,Encalyptaceae,Encalypta,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Barbula unguiculata,Hedw.,Bryophyta,Pottiales,Pottiaceae,Barbula,species,NE,10.4226,63.4447,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Tortula muralis,Hedw.,Bryophyta,Pottiales,Pottiaceae,Tortula,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Tortula acaulon,(With.) R.H.Zander,Bryophyta,Pottiales,Pottiaceae,Tortula,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Weissia brachycarpa,(Nees & Hornsch.) Jur.,Bryophyta,Pottiales,Pottiaceae,Weissia,species,NE,10.4235,63.4454,1414,1891,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Schistidium apocarpum,(Hedw.) Bruch & Schimp.,Bryophyta,Grimmiales,Grimmiaceae,Schistidium,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Bartramia pomiformis,Hedw.,Bryophyta,Bartramiales,Bartramiaceae,Bartramia,species,NE,10.4235,63.4454,1414,1965,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Fissidens dubius var. mucronatus,"(Breidl. ex Limpr.) Kartt., Hedenäs & L. Söderstr.",Bryophyta,Dicranales,Fissidentaceae,Fissidens,variety,,10.4216,63.4452,1,2009,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Radula complanata,(L.) Dumort.,Marchantiophyta,Porellales,Radulaceae,Radula,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Lathyrus pratensis,L.,Tracheophyta,Fabales,Fabaceae,Lathyrus,species,LC,10.42185,63.445276,25,2012,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Ulmus glabra,Huds.,Tracheophyta,Rosales,Ulmaceae,Ulmus,species,DD,10.42724,63.444236,5,2020,Valid,Accepted,FALSE,"",Not a synonym,b124e1e0-4755-430f-9eab-894f25a9b59c
+Sedum acre  subsp. majus,(Masters) R.T.Clausen,Tracheophyta,Saxifragales,Crassulaceae,Sedum,subspecies,NE,10.427078,63.444116,10,2012,Valid,Accepted,TRUE,Sedum acre var. majus,"",b124e1e0-4755-430f-9eab-894f25a9b59c
+Salix myrsinifolia,Salisb.,Tracheophyta,Malpighiales,Salicaceae,Salix,species,LC,10.424,63.445,,2005,Valid,Accepted,FALSE,"","",040c5662-da76-4782-a48e-cdea1892d14c
+Corydalis intermedia,(L.) Mérat,Tracheophyta,Ranunculales,Papaveraceae,Corydalis,species,NE,10.422119,63.445408,8,2023,Valid,Accepted,FALSE,"","",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Porella cordaeana,(Huebener) Moore,Marchantiophyta,Porellales,Porellaceae,Porella,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Convallaria majalis,L.,Tracheophyta,Asparagales,Asparagaceae,Convallaria,species,NE,10.421868,63.445268,25,2010,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Schistidium papillosum,Culm.,Bryophyta,Grimmiales,Grimmiaceae,Schistidium,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Eurhynchiastrum pulchellum,(Hedw.) Ignatov & Huttunen,Bryophyta,Hypnales,Brachytheciaceae,Eurhynchiastrum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ptychostomum salinum,(I.Hagen ex Limpr.) J.R.Spence,Bryophyta,Bryales,Bryaceae,Ptychostomum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Hylocomiadelphus triquetrus,(Hedw.) Ochyra & Stebel,Bryophyta,Hypnales,Hylocomiaceae,Hylocomiadelphus,species,NE,10.4235,63.4454,1414,1954,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Stereodon hamulosus,(Schimp.) Lindb.,Bryophyta,Hypnales,Hypnaceae,Stereodon,species,NE,10.4235,63.4454,1414,1895,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Leucanthemum eliasii,"(Sennen & Pau) Vogt, Konowalik & Oberpr.",Tracheophyta,Asterales,Asteraceae,Leucanthemum,species,NE,10.421715,63.445212,10,2020,Valid,Accepted,TRUE,Leucanthemum vulgare var. eliasii,smallest ID,b124e1e0-4755-430f-9eab-894f25a9b59c
+Flexitrichum gracile,(Mitt.) Ignatov & Fedosov,Bryophyta,Scouleriales,Flexitrichaceae,Flexitrichum,species,NE,10.4235,63.4454,1414,1888,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Geheebia fallax,(Hedw.) R.H. Zander,Bryophyta,Pottiales,Pottiaceae,Geheebia,species,NE,10.4216,63.4452,1,2009,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Asplenium ruta-muraria,L.,Tracheophyta,Polypodiales,Aspleniaceae,Asplenium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Asplenium septentrionale,(L.) Hoffm.,Tracheophyta,Polypodiales,Aspleniaceae,Asplenium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Cystopteris fragilis  var. fragilis,"",Tracheophyta,Polypodiales,Cystopteridaceae,Cystopteris,variety,,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Phegopteris connectilis,(Michx.) Watt,Tracheophyta,Polypodiales,Thelypteridaceae,Phegopteris,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Hennediella heimii,(Hedw.) R.H.Zander,Bryophyta,Pottiales,Pottiaceae,Hennediella,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Tortella nitida var. fragilifolia,(Jur.) Köckinger & Hedenäs,Bryophyta,Pottiales,Pottiaceae,Tortella,variety,,10.4235,63.4454,1414,1889,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Tortella tortuosa,(Hedw.) Limpr.,Bryophyta,Pottiales,Pottiaceae,Tortella,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Aloina brevirostris,(Hook. & Grev.) Kindb.,Bryophyta,Pottiales,Pottiaceae,Aloina,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ulota drummondii,(Hook. & Grev.) Brid.,Bryophyta,Orthotrichales,Orthotrichaceae,Ulota,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Orthotrichum anomalum,Hedw.,Bryophyta,Orthotrichales,Orthotrichaceae,Orthotrichum,species,NE,10.4235,63.4454,1414,1890,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Racomitrium lanuginosum,(Hedw.) Brid.,Bryophyta,Grimmiales,Grimmiaceae,Racomitrium,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Cynodontium bruntonii,(Sm.) Bruch & Schimp.,Bryophyta,Dicranales,Dicranaceae,Cynodontium,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Pleuridium subulatum,(Hedw.) Rabenh.,Bryophyta,Dicranales,Ditrichaceae,Pleuridium,species,NE,10.4216,63.4452,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Aulacomnium androgynum,(Hedw.) Schwägr.,Bryophyta,Aulacomniales,Aulacomniaceae,Aulacomnium,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Rosulabryum capillare,(Hedw.) J.R.Spence,Bryophyta,Bryales,Bryaceae,Rosulabryum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Antitrichia curtipendula,(Timm ex Hedw.) Brid.,Bryophyta,Hypnales,Leucodontaceae,Antitrichia,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Rhytidiadelphus loreus,(Hedw.) Warnst.,Bryophyta,Hypnales,Hylocomiaceae,Rhytidiadelphus,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Rhytidium rugosum,(Ehrh. ex Hedw.) Kindb.,Bryophyta,Hypnales,Rhytidiaceae,Rhytidium,species,NE,10.4216,63.4452,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Cirriphyllum piliferum,(Hedw.) Grout,Bryophyta,Hypnales,Brachytheciaceae,Cirriphyllum,species,NE,10.4235,63.4454,1414,1890,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Brachythecium rutabulum,(Hedw.) Schimp.,Bryophyta,Hypnales,Brachytheciaceae,Brachythecium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Brachythecium rivulare,Schimp.,Bryophyta,Hypnales,Brachytheciaceae,Brachythecium,species,NE,10.4235,63.4454,1414,1954,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Brachythecium glareosum,(Bruch ex Spruce) Schimp.,Bryophyta,Hypnales,Brachytheciaceae,Brachythecium,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Campylium chrysophyllum,(Brid.) Lange,Bryophyta,Hypnales,Amblystegiaceae,Campylium,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Hygrohypnum luridum,(Hedw.) Jenn.,Bryophyta,Hypnales,Amblystegiaceae,Hygrohypnum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Sanionia uncinata,(Hedw.) Loeske,Bryophyta,Hypnales,Amblystegiaceae,Sanionia,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Palustriella commutata,(Hedw.) Ochyra,Bryophyta,Hypnales,Amblystegiaceae,Palustriella,species,NE,10.4235,63.4454,1414,1889,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Hypnum resupinatum,Taylor,Bryophyta,Hypnales,Hypnaceae,Hypnum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Homomallium incurvatum,(Schrad. ex Brid.) Loeske,Bryophyta,Hypnales,Pylaisiaceae,Homomallium,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Juniperus communis,L.,Tracheophyta,Pinales,Cupressaceae,Juniperus,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Equisetum sylvaticum,L.,Tracheophyta,Equisetales,Equisetaceae,Equisetum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Equisetum pratense,Ehrh.,Tracheophyta,Equisetales,Equisetaceae,Equisetum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Frullania tamarisci,(L.) Dumort.,Marchantiophyta,Porellales,Frullaniaceae,Frullania,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Frullania dilatata,(L.) Dumort.,Marchantiophyta,Porellales,Frullaniaceae,Frullania,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Lepidozia reptans,(L.) Dumort.,Marchantiophyta,Jungermanniales,Lepidoziaceae,Lepidozia,species,NE,10.4235,63.4454,1414,1889,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Schistochilopsis incisa,(Schrad.) Konstantinova,Marchantiophyta,Jungermanniales,Scapaniaceae,Schistochilopsis,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Tritomaria exsectiformis,(Breidl.) Schiffner ex Loeske,Marchantiophyta,Jungermanniales,Lophoziaceae,Tritomaria,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Isopaches bicrenatus,(Schmidel) H.Buch,Marchantiophyta,Jungermanniales,Anastrophyllaceae,Isopaches,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Nardus stricta var. minor,Guffroy,Tracheophyta,Poales,Poaceae,Nardus,variety,NE,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Danthonia decumbens,DC.,Tracheophyta,Poales,Poaceae,Danthonia,species,NE,10.4226,63.4453,7,2008,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Poa pratensis,L.,Tracheophyta,Poales,Poaceae,Poa,species,,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Poa pratensis subsp. pratensis,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Poa glauca,Vahl,Tracheophyta,Poales,Poaceae,Poa,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Poa nemoralis,L.,Tracheophyta,Poales,Poaceae,Poa,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Poa nemoralis var. acuta,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Puccinellia distans,(Jacq.) Parl.,Tracheophyta,Poales,Poaceae,Puccinellia,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Festuca ovina L.,,Tracheophyta,Poales,,,,NE,10.423522,63.445355,1000,1990,,,FALSE,"",no match found,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Anthoxanthum odoratum,L.,Tracheophyta,Poales,Poaceae,Anthoxanthum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Leymus arenarius,Hochst.,Tracheophyta,Poales,Poaceae,Leymus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Agrostis capillaris,L.,Tracheophyta,Poales,Poaceae,Agrostis,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Blysmus rufus,Link,Tracheophyta,Poales,Cyperaceae,Blysmus,species,NE,10.4235,63.4454,1414,,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Carex ornithopoda,Willd.,Tracheophyta,Poales,Cyperaceae,Carex,species,NE,10.421841,63.445188,5,2022,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Carex panicea,L.,Tracheophyta,Poales,Cyperaceae,Carex,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Carex panicea f. nigra,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Carex pallescens,L.,Tracheophyta,Poales,Cyperaceae,Carex,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Carex pallescens f. elatior,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Maianthemum bifolium,(L.) F.W.Schmidt,Tracheophyta,Asparagales,Asparagaceae,Maianthemum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Polygonatum verticillatum,(L.) All.,Tracheophyta,Asparagales,Asparagaceae,Polygonatum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Calluna vulgaris,(L.) Hill,Tracheophyta,Ericales,Ericaceae,Calluna,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Arctostaphylos uva-ursi,(L.) Spreng.,Tracheophyta,Ericales,Ericaceae,Arctostaphylos,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Vaccinium myrtillus,L.,Tracheophyta,Ericales,Ericaceae,Vaccinium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Viburnum opulus f. flavum,(Horw.) P.D.Sell,Tracheophyta,Dipsacales,Viburnaceae,Viburnum,form,NE,10.423522,63.445355,1000,1990,Illegitimate,Unchecked,FALSE,"",smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Rumex acetosella,L.,Tracheophyta,Caryophyllales,Polygonaceae,Rumex,species,,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Rumex acetosella subsp. acetosella,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Persicaria vivipara,(L.) Ronse Decr.,Tracheophyta,Caryophyllales,Polygonaceae,Persicaria,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Bistorta vivipara,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Geranium robertianum,L.,Tracheophyta,Geraniales,Geraniaceae,Geranium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Galium aparine,L.,Tracheophyta,Gentianales,Rubiaceae,Galium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Galium aparine var. verum,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Asperugo procumbens,L.,Tracheophyta,Boraginales,Boraginaceae,Asperugo,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Lamium purpureum  var. incisum,(Willd.) Pers.,Tracheophyta,Lamiales,Lamiaceae,Lamium,variety,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Accepted,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Clinopodium acinos,Kuntze,Tracheophyta,Lamiales,Lamiaceae,Clinopodium,species,NE,10.426189,63.444501,10,2007,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Lamium galeobdolon,(L.) L.,Tracheophyta,Lamiales,Lamiaceae,Lamium,species,,10.426647,63.444417,5,2020,Valid,Accepted,TRUE,Lamiastrum galeobdolon,"",b124e1e0-4755-430f-9eab-894f25a9b59c
+Vicia sylvatica var. violacea,Behm,Tracheophyta,Fabales,Fabaceae,Vicia,variety,NE,10.423522,63.445355,1000,1990,Valid,Unchecked,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Filipendula ulmaria,(L.) Maxim.,Tracheophyta,Rosales,Rosaceae,Filipendula,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Accepted,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Rosa majalis,Herrm.,Tracheophyta,Rosales,Rosaceae,Rosa,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Accepted,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Rosa mollis f. atona,Matsson,Tracheophyta,Rosales,Rosaceae,Rosa,form,NE,10.421715,63.445212,10,2020,"",Unchecked,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Sorbus aucuparia,L.,Tracheophyta,Rosales,Rosaceae,Sorbus,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Sorbus aucuparia var. typica,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Amelanchier humilis,Wiegand,Tracheophyta,Rosales,Rosaceae,Amelanchier,species,NE,10.421859,63.445236,23,2021,Valid,Accepted,FALSE,"",Accepted,b124e1e0-4755-430f-9eab-894f25a9b59c
+Alchemilla filicaulis,Buser,Tracheophyta,Rosales,Rosaceae,Alchemilla,species,NE,10.4235,63.4454,1414,1901,Valid,Accepted,FALSE,"",Accepted,e45c7d91-81c6-4455-86e3-2965a5739b1f
+Alchemilla glabra,Neygenf.,Tracheophyta,Rosales,Rosaceae,Alchemilla,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Alchemilla micans,Buser,Tracheophyta,Rosales,Rosaceae,Alchemilla,species,NE,10.4236,63.4449,7,2008,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Anemonoides quinquefolia,(L.) Holub,Tracheophyta,Ranunculales,Ranunculaceae,Anemonoides,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Anemone nemorosa f. nitida,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Ranunculus acris,L.,Tracheophyta,Ranunculales,Ranunculaceae,Ranunculus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Ranunculus acris f. acris,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Carum carvi,L.,Tracheophyta,Apiales,Apiaceae,Carum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Carum carvi f. carvi,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Heracleum sphondylium  subsp. sibiricum,(L.) Simonk.,Tracheophyta,Apiales,Apiaceae,Heracleum,subspecies,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Hippophae rhamnoides,L.,Tracheophyta,Rosales,Elaeagnaceae,Hippophae,species,LC,10.4224,63.4451,7,2008,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Rhamnus cathartica,L.,Tracheophyta,Rosales,Rhamnaceae,Rhamnus,species,LC,10.426719,63.444345,5,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Sinapis arvensis,L.,Tracheophyta,Brassicales,Brassicaceae,Sinapis,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Sinapis arvensis f. orientalis,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Erysimum incanum,Kunze,Tracheophyta,Brassicales,Brassicaceae,Erysimum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Erysimum strictum,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Thlaspi arvense,L.,Tracheophyta,Brassicales,Brassicaceae,Thlaspi,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Cornus suecica,L.,Tracheophyta,Cornales,Cornaceae,Cornus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Cornus suecica f. suecica,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Atriplex prostrata,Boucher ex DC.,Tracheophyta,Caryophyllales,Amaranthaceae,Atriplex,species,,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Moehringia trinervia,[Clairv.],Tracheophyta,Caryophyllales,Caryophyllaceae,Moehringia,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Sagina procumbens,L.,Tracheophyta,Caryophyllales,Caryophyllaceae,Sagina,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Sagina procumbens var. compacta,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Dianthus deltoides,L.,Tracheophyta,Caryophyllales,Caryophyllaceae,Dianthus,species,NE,10.425623,63.445658,5,2020,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Cerastium fontanum,Baumg.,Tracheophyta,Caryophyllales,Caryophyllaceae,Cerastium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Cicerbita alpina,Wallr.,Tracheophyta,Asterales,Asteraceae,Cicerbita,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Sonchus arvensis var. nanus,Phil.,Tracheophyta,Asterales,Asteraceae,Sonchus,variety,NT,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Cirsium vulgare,(Savi) Ten.,Tracheophyta,Asterales,Asteraceae,Cirsium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Cirsium arvense,(L.) Scop.,Tracheophyta,Asterales,Asteraceae,Cirsium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Cirsium heterophyllum,(L.) Hill,Tracheophyta,Asterales,Asteraceae,Cirsium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Carduus crispus,L.,Tracheophyta,Asterales,Asteraceae,Carduus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Carduus crispus var. albus,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Bellis perennis,L.,Tracheophyta,Asterales,Asteraceae,Bellis,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Bellis perennis f. plena,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Hieracium caesium,Fr.,Tracheophyta,Asterales,Asteraceae,Hieracium,species,NE,10.4235,63.4454,1414,1907,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Scrophularia nodosa,L.,Tracheophyta,Lamiales,Scrophulariaceae,Scrophularia,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Verbascum thapsus,L.,Tracheophyta,Lamiales,Scrophulariaceae,Verbascum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Verbascum thapsus var. boreale,Accepted,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Rhinanthus minor var. minor,"",Tracheophyta,Lamiales,Orobanchaceae,Rhinanthus,variety,NE,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Veronica officinalis,L.,Tracheophyta,Lamiales,Plantaginaceae,Veronica,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Veronica serpyllifolia,L.,Tracheophyta,Lamiales,Plantaginaceae,Veronica,species,,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Veronica serpyllifolia var. serpyllifolia,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Fraxinus excelsior,L.,Tracheophyta,Lamiales,Oleaceae,Fraxinus,species,NT,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Plantago media f. ovata,P.Snarskis,Tracheophyta,Lamiales,Plantaginaceae,Plantago,form,NE,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"",smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Plantago maritima  subsp. ciliata,Printz,Tracheophyta,Lamiales,Plantaginaceae,Plantago,subspecies,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Plantago maritima var. salsa,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Plantago major f. dura,(Pilg.) Domin,Tracheophyta,Lamiales,Plantaginaceae,Plantago,form,LC,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Acer platanoides,L.,Tracheophyta,Sapindales,Sapindaceae,Acer,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Acer platanoides f. nanum,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Epilobium montanum,L.,Tracheophyta,Myrtales,Onagraceae,Epilobium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Epilobium collinum,C.C.Gmel.,Tracheophyta,Myrtales,Onagraceae,Epilobium,species,NE,10.42185,63.445276,25,2012,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Euphrasia scottica,Wettst.,Tracheophyta,Lamiales,Orobanchaceae,Euphrasia,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Melica picta,K.Koch,Tracheophyta,Poales,Poaceae,Melica,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Melica nutans var. picta,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Avenella flexuosa,(L.) Drejer,Tracheophyta,Poales,Poaceae,Avenella,species,DD,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Lophocolea minor,Nees,Marchantiophyta,Jungermanniales,Lophocoleaceae,Lophocolea,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Lophocolea heterophylla,(Schrad.) Dumort.,Marchantiophyta,Jungermanniales,Lophocoleaceae,Lophocolea,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Lophocolea bidentata,(L.) Dumort.,Marchantiophyta,Jungermanniales,Lophocoleaceae,Lophocolea,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Scapania scandica,(Arnell & H.Buch) Macvicar,Marchantiophyta,Jungermanniales,Scapaniaceae,Scapania,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ulota crispa,(Hedw.) Brid.,Bryophyta,Orthotrichales,Orthotrichaceae,Ulota,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,TRUE,Ulota crispula,"",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Oxyrrhynchium hians,(Hedw.) Loeske,Bryophyta,Hypnales,Brachytheciaceae,Oxyrrhynchium,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Gymnostomum aeruginosum var. obscurum,J. Guerra,Bryophyta,Pottiales,Pottiaceae,Gymnostomum,variety,NE,10.4235,63.4454,1414,1888,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Polypodium vulgare,L.,Tracheophyta,Polypodiales,Polypodiaceae,Polypodium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Athyrium filix-femina,(L.) Roth,Tracheophyta,Polypodiales,Aspleniaceae,Athyrium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Dryopteris expansa,(C.Presl) Fraser-Jenk. & Jermy,Tracheophyta,Polypodiales,Dryopteridaceae,Dryopteris,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Dryopteris filix-mas,(L.) Schott,Tracheophyta,Polypodiales,Dryopteridaceae,Dryopteris,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Dryopteris carthusiana,(Vill.) H.P.Fuchs,Tracheophyta,Polypodiales,Dryopteridaceae,Dryopteris,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Tortula cernua,(Huebener) Lindb.,Bryophyta,Pottiales,Pottiaceae,Tortula,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Fissidens adianthoides,Hedw.,Bryophyta,Dicranales,Fissidentaceae,Fissidens,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ceratodon purpureus,(Hedw.) Brid.,Bryophyta,Dicranales,Ditrichaceae,Ceratodon,species,NE,10.4235,63.4454,1414,1891,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Grimmia torquata,Drumm.,Bryophyta,Grimmiales,Grimmiaceae,Grimmia,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Grimmia hartmanii,Schimp.,Bryophyta,Grimmiales,Grimmiaceae,Grimmia,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Grimmia laevigata,(Brid.) Brid.,Bryophyta,Grimmiales,Grimmiaceae,Grimmia,species,NE,10.4235,63.4454,1414,1825,Valid,Accepted,FALSE,"",Accepted,68a0650f-96ae-499c-8b2a-a4f92c01e4b3
+Ditrichum pusillum,(Hedw.) Hampe,Bryophyta,Dicranales,Ditrichaceae,Ditrichum,species,NE,10.4216,63.4452,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Pohlia cruda,(Hedw.) Lindb.,Bryophyta,Bryales,Mniaceae,Pohlia,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Mnium stellare,Reichard ex Hedw.,Bryophyta,Bryales,Mniaceae,Mnium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Mnium thomsonii,Schimp.,Bryophyta,Bryales,Mniaceae,Mnium,species,NE,10.4235,63.4454,1414,1889,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Leucodon sciuroides,(Hedw.) Schwägr.,Bryophyta,Hypnales,Leucodontaceae,Leucodon,species,NE,10.4216,63.4452,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Fissidens bryoides,Hedw.,Bryophyta,Dicranales,Fissidentaceae,Fissidens,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Tetraphis pellucida,Hedw.,Bryophyta,Tetraphidales,Tetraphidaceae,Tetraphis,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Abietinella abietina,(Hedw.) M.Fleisch.,Bryophyta,Hypnales,Thuidiaceae,Abietinella,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Anomodon viticulosus,(Hedw.) Hook. & Taylor,Bryophyta,Hypnales,Anomodontaceae,Anomodon,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Plagiothecium denticulatum,(Hedw.) Schimp.,Bryophyta,Hypnales,Plagiotheciaceae,Plagiothecium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Myurella julacea,(Schwägr.) Schimp.,Bryophyta,Hypnales,Theliaceae,Myurella,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ptilium crista-castrensis,(Hedw.) De Not.,Bryophyta,Hypnales,Pylaisiaceae,Ptilium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Entodon concinnus,(De Not.) Paris,Bryophyta,Hypnales,Entodontaceae,Entodon,species,NE,10.4216,63.4452,1,2009,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Andreaea rupestris,Hedw.,Bryophyta,Andreaeales,Andreaeaceae,Andreaea,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"",Accepted,6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Picea abies,(L.) H.Karst.,Tracheophyta,Pinales,Pinaceae,Picea,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Pinus sylvestris,L.,Tracheophyta,Pinales,Pinaceae,Pinus,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Pinus sylvestris f. nana,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Riccia sorocarpa,Bisch.,Marchantiophyta,Marchantiales,Ricciaceae,Riccia,species,NE,10.4235,63.4454,1414,1889,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Diplophyllum albicans,(L.) Dumort.,Marchantiophyta,Jungermanniales,Scapaniaceae,Diplophyllum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Aneura pinguis,(L.) Dumort.,Marchantiophyta,Metzgeriales,Aneuraceae,Aneura,species,NE,10.4235,63.4454,1414,1897,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Alopecurus pratensis,L.,Tracheophyta,Poales,Poaceae,Alopecurus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Alopecurus geniculatus,L.,Tracheophyta,Poales,Poaceae,Alopecurus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Elymus caninus,L.,Tracheophyta,Poales,Poaceae,Elymus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Gagea lutea,Ker Gawl.,Tracheophyta,Liliales,Liliaceae,Gagea,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Viola tricolor f. alba,Sigunov,Tracheophyta,Malpighiales,Violaceae,Viola,form,NE,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Betula pendula,Roth,Tracheophyta,Fagales,Betulaceae,Betula,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Fumaria officinalis,L.,Tracheophyta,Ranunculales,Papaveraceae,Fumaria,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Linnaea borealis,L.,Tracheophyta,Dipsacales,Caprifoliaceae,Linnaea,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Linnaea borealis f. arctica,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Myosotis arvensis,Hill,Tracheophyta,Boraginales,Boraginaceae,Myosotis,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Accepted,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Prunella vulgaris  subsp. lanceolata,(W.P.C.Barton) Piper & Beattie,Tracheophyta,Lamiales,Lamiaceae,Prunella,subspecies,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Prunella vulgaris f. alba,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Galeopsis tetrahit,L.,Tracheophyta,Lamiales,Lamiaceae,Galeopsis,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Lathyrus niger,(L.) Bernh.,Tracheophyta,Fabales,Fabaceae,Lathyrus,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Lathyrus vernus,(L.) Bernh.,Tracheophyta,Fabales,Fabaceae,Lathyrus,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Trifolium medium,L.,Tracheophyta,Fabales,Fabaceae,Trifolium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Trifolium medium var. majus,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Sedum annuum  subsp. gussonei,Brullo & Spamp.,Tracheophyta,Saxifragales,Crassulaceae,Sedum,subspecies,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Potentilla crantzii,(Crantz) Fritsch,Tracheophyta,Rosales,Rosaceae,Potentilla,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Accepted,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Geum rivale,L.,Tracheophyta,Rosales,Rosaceae,Geum,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Geum rivale f. rivale,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Angelica sylvestris,L.,Tracheophyta,Apiales,Apiaceae,Angelica,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Salix caprea f. pendula,(T.Lang) Geerinck,Tracheophyta,Malpighiales,Salicaceae,Salix,form,LC,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"",smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Barbarea stricta,Andrz.,Tracheophyta,Brassicales,Brassicaceae,Barbarea,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Alliaria petiolata,(M.Bieb.) Cavara & Grande,Tracheophyta,Brassicales,Brassicaceae,Alliaria,species,NE,10.4245,63.444,71,2009,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Stellaria graminea,L.,Tracheophyta,Caryophyllales,Caryophyllaceae,Stellaria,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Silene dioica,(L.) Clairv.,Tracheophyta,Caryophyllales,Caryophyllaceae,Silene,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Antennaria dioica,(L.) Gaertn.,Tracheophyta,Asterales,Asteraceae,Antennaria,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Arctium minus,Schkuhr,Tracheophyta,Asterales,Asteraceae,Arctium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Taraxacum officinale,F.H.Wigg.,Tracheophyta,Asterales,Asteraceae,Taraxacum,species,NE,10.423274,63.444563,8,2021,Valid,Accepted,FALSE,"","",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Solenostoma obovatum,(Nees) R.M.Schust.,Marchantiophyta,Jungermanniales,Solenostomataceae,Solenostoma,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"",Accepted,6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Plagiothecium undulatum,(Hedw.) Schimp.,Bryophyta,Hypnales,Plagiotheciaceae,Plagiothecium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Empetrum nigrum  subsp. hermaphroditum,(Hagerup) Böcher,Tracheophyta,Ericales,Ericaceae,Empetrum,subspecies,,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Empetrum hermaphroditum,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Persicaria maculosa,Gray,Tracheophyta,Caryophyllales,Polygonaceae,Persicaria,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Persicaria maculosa var. argentea,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Juncus gerardii,Loisel.,Tracheophyta,Poales,Juncaceae,Juncus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Juncus bufonius,L.,Tracheophyta,Poales,Juncaceae,Juncus,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Juncus bufonius f. alpinus,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Epilobium angustifolium,L.,Tracheophyta,Myrtales,Onagraceae,Epilobium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Chamaenerion angustifolium,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Solidago virgaurea,L.,Tracheophyta,Asterales,Asteraceae,Solidago,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Accepted,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Viola riviniana,Rchb.,Tracheophyta,Malpighiales,Violaceae,Viola,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Melampyrum sylvaticum,L.,Tracheophyta,Lamiales,Orobanchaceae,Melampyrum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Accepted,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Hymenostylium recurvirostrum,(Hedw.) Dixon,Bryophyta,Pottiales,Pottiaceae,Hymenostylium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Plagiomnium cuspidatum,(Hedw.) T.J.Kop.,Bryophyta,Bryales,Mniaceae,Plagiomnium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Sciuro-hypnum starkii,(Brid.) Ignatov & Huttunen,Bryophyta,Hypnales,Brachytheciaceae,Sciuro-hypnum,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Homalia trichomanoides,(Hedw.) Schimp.,Bryophyta,Hypnales,Neckeraceae,Homalia,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Niphotrichum canescens  subsp. latifolium,(Lange & C.E.O.Jensen) Bednarek-Ochyra & Ochyra,Bryophyta,Grimmiales,Grimmiaceae,Niphotrichum,subspecies,,10.4235,63.4454,1414,,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Rosa subcanina,(Christ) Vuk.,Tracheophyta,Rosales,Rosaceae,Rosa,species,NE,10.4235,63.4454,1414,1923,Valid,Accepted,FALSE,"",Not a synonym,d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Myosotis ramosissima,Rochel,Tracheophyta,Boraginales,Boraginaceae,Myosotis,species,NE,10.42185,63.445276,25,2012,Valid,Accepted,FALSE,"","",b124e1e0-4755-430f-9eab-894f25a9b59c
+Cololejeunea calcarea,(Lib.) Stephani,Marchantiophyta,Porellales,Lejeuneaceae,Cololejeunea,species,NE,10.4235,63.4454,1414,1897,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Melampyrum pratense,L.,Tracheophyta,Lamiales,Orobanchaceae,Melampyrum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Viola ruppii,Hegetschw.,Tracheophyta,Malpighiales,Violaceae,Viola,species,,10.423522,63.445355,1000,1990,"",Unchecked,FALSE,"",smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Hymenoloma crispulum,(Hedw.) Ochyra,Bryophyta,Scouleriales,Rhabdoweisiaceae,Hymenoloma,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Polygonum aviculare,L.,Tracheophyta,Caryophyllales,Polygonaceae,Polygonum,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Ptychostomum intermedium,(Brid.) J.R.Spence,Bryophyta,Bryales,Bryaceae,Ptychostomum,species,NE,10.4235,63.4454,1414,1890,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Pilosella,Hill,Tracheophyta,Asterales,Asteraceae,Pilosella,genus,NE,10.4216,63.4452,7,2008,Valid,Accepted,FALSE,"","",d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Orthotrichum pumilum,Sw.,Bryophyta,Orthotrichales,Orthotrichaceae,Orthotrichum,species,NE,10.4235,63.4454,1414,1894,Valid,Accepted,TRUE,Orthotrichum schimperi,"",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Tortula hoppeana,(Schultz) Ochyra,Bryophyta,Pottiales,Pottiaceae,Tortula,species,NE,10.4235,63.4454,1414,1890,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Brassica rapa,L.,Tracheophyta,Brassicales,Brassicaceae,Brassica,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Brassica rapa f. alba,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Equisetum arvense,L.,Tracheophyta,Equisetales,Equisetaceae,Equisetum,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Equisetum arvense f. nanum,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Barbarea sicula,C.Presl,Tracheophyta,Brassicales,Brassicaceae,Barbarea,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Barbarea vulgaris var. sicula,smallest ID,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Cardamine pratensis,L.,Tracheophyta,Brassicales,Brassicaceae,Cardamine,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Rhizomnium punctatum,(Hedw.) T.J.Kop.,Bryophyta,Bryales,Mniaceae,Rhizomnium,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Euphrasia stricta,J.P.Wolff ex J.F.Lehm.,Tracheophyta,Lamiales,Orobanchaceae,Euphrasia,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Leontodon,L.,Tracheophyta,Asterales,Asteraceae,Leontodon,genus,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Deschampsia cespitosa,(L.) P.Beauv.,Tracheophyta,Poales,Poaceae,Deschampsia,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Valeriana sambucifolia  subsp. sambucifolia f. dageletiana,(Nakaj. ex Maekawa) Hara,Tracheophyta,Dipsacales,Caprifoliaceae,Valeriana,form,,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Vaccinium uliginosum,L.,Tracheophyta,Ericales,Ericaceae,Vaccinium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Arenaria serpyllifolia,L.,Tracheophyta,Caryophyllales,Caryophyllaceae,Arenaria,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Gemmabryum caespiticium,(Hedw.) J.R.Spence,Bryophyta,Bryales,Bryaceae,Gemmabryum,species,NE,10.4235,63.4454,1414,1889,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Asplenium trichomanes,L.,Tracheophyta,Polypodiales,Aspleniaceae,Asplenium,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Serpoleskea confervoides,(Brid.) Loeske,Bryophyta,Hypnales,Plagiotheciaceae,Serpoleskea,species,NE,10.4235,63.4454,1414,1894,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Archidium alternifolium,(Dicks. ex Hedw.) Mitt.,Bryophyta,Archidiales,Archidiaceae,Archidium,species,NE,10.4235,63.4454,1414,1896,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Dicranum fuscescens  var. flexicaule,(Brid.) Wilson,Bryophyta,Dicranales,Dicranaceae,Dicranum,variety,NE,10.4235,63.4454,1414,1888,Valid,Accepted,TRUE,Dicranum flexicaule,"",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Rumex stenophyllus,Ledeb.,Tracheophyta,Caryophyllales,Polygonaceae,Rumex,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Rumex crispus var. dentatus,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Oxalis acetosella,L.,Tracheophyta,Oxalidales,Oxalidaceae,Oxalis,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Oxalis acetosella f. rosea,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Sonchus oleraceus,L.,Tracheophyta,Asterales,Asteraceae,Sonchus,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Sonchus oleraceus var. asper,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Alleniella complanata,"(Hedw.) S.Olsson, Enroth & D.Quandt",Bryophyta,Hypnales,Neckeraceae,Alleniella,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Metzgeria furcata,(L.) Corda,Marchantiophyta,Metzgeriales,Metzgeriaceae,Metzgeria,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ptychostomum knowltonii,(Barnes) J.R.Spence,Bryophyta,Bryales,Bryaceae,Ptychostomum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Imbribryum alpinum,(Huds. ex With.) N.Pedersen,Bryophyta,Bryales,Bryaceae,Imbribryum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ulota crispa,(Hedw.) Brid.,Bryophyta,Orthotrichales,Orthotrichaceae,Ulota,species,LC,10.4235,63.4454,1414,1888,Valid,Accepted,TRUE,Ulota bruchii,"",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Chiloscyphus pallescens,(Ehrh. ex Hoffm.) Dumort.,Marchantiophyta,Jungermanniales,Lophocoleaceae,Chiloscyphus,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Rosulabryum elegans,(Nees) Ochyra,Bryophyta,Bryales,Bryaceae,Rosulabryum,species,NE,10.4235,63.4454,1414,1890,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Scapania cuspiduligera,(Nees) K.Müller,Marchantiophyta,Jungermanniales,Scapaniaceae,Scapania,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Brachytheciastrum velutinum,(Hedw.) Ignatov & Huttunen,Bryophyta,Hypnales,Brachytheciaceae,Brachytheciastrum,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Dicranum polysetum,Sw.,Bryophyta,Dicranales,Dicranaceae,Dicranum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"",Accepted,6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Primula vulgaris,Huds.,Tracheophyta,Ericales,Primulaceae,Primula,species,NE,10.4235,63.4454,1414,1892,Valid,Accepted,TRUE,Primula veris var. acaulis,smallest ID,d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Silene uniflora,Roth,Tracheophyta,Caryophyllales,Caryophyllaceae,Silene,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Aria edulis,M.Roem.,Tracheophyta,Rosales,Rosaceae,Aria,species,NE,10.4225,63.4449,71,2004,Valid,Accepted,FALSE,"",Accepted,e45c7d91-81c6-4455-86e3-2965a5739b1f
+Amblyodon dealbatus,(Sw. ex Hedw.) Bruch & Schimp.,Bryophyta,Splachnales,Meesiaceae,Amblyodon,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Mesoptychia heterocolpos,(Thed. ex Hartm.) L. Söderstr. & Váňa,Marchantiophyta,Jungermanniales,Jungermanniaceae,Mesoptychia,species,NE,10.4235,63.4454,1414,1888,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Lejeunea cavifolia,(Ehrh.) Lindb.,Marchantiophyta,Porellales,Lejeuneaceae,Lejeunea,species,NE,10.4235,63.4454,1414,1889,Valid,Accepted,FALSE,"",Accepted,6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Empetrum nigrum  subsp. nigrum,"",Tracheophyta,Ericales,Ericaceae,Empetrum,subspecies,,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Seligeria donniana,(Sm.) Müll.Hal.,Bryophyta,Grimmiales,Seligeriaceae,Seligeria,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Ranunculus ficaria,L.,Tracheophyta,Ranunculales,Ranunculaceae,Ranunculus,species,NE,10.425209,63.444074,8,2021,Valid,Accepted,TRUE,Ficaria verna,"",50c9509d-22c7-4a22-a47d-8c48425ef4a7
+Betula pubescens,Ehrh.,Tracheophyta,Fagales,Betulaceae,Betula,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,TRUE,Betula pubescens var. media,"",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Alnus incana,(L.) Moench,Tracheophyta,Fagales,Betulaceae,Alnus,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Silene vulgaris,(Moench) Garcke,Tracheophyta,Caryophyllales,Caryophyllaceae,Silene,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Ligusticum,L.,Tracheophyta,Apiales,Apiaceae,Ligusticum,genus,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Crataegus monogyna var. rosea,(Willd.) K.Koch,Tracheophyta,Rosales,Rosaceae,Crataegus,variety,LC,10.426,63.4444,7,2005,"",Unchecked,FALSE,"",smallest ID,d29d79fd-2dc4-4ef5-89b8-cdf66994de0d
+Aria rupicola,(Syme) Mezhenskyj,Tracheophyta,Rosales,Rosaceae,Aria,species,LC,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"","",f06ed729-104f-4e51-9db3-dfd9b228a1be
+Pilosella officinarum,Vaill.,Tracheophyta,Asterales,Asteraceae,Pilosella,species,NE,10.423522,63.445355,1000,1990,Valid,Accepted,FALSE,"",Not a synonym,f06ed729-104f-4e51-9db3-dfd9b228a1be
+Dilutineuron fasciculare,"(Schrad. ex Hedw.) Bedn.-Ochyra, Sawicki, Ochyra, Szczecińska & Plášek",Bryophyta,Grimmiales,"",Dilutineuron,species,NE,10.4235,63.4454,1414,1888,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Lewinskya striata,"(Hedw.) F. Lara, Garilleti & Goffinet",Bryophyta,Orthotrichales,Orthotrichaceae,Lewinskya,species,NE,10.4235,63.4454,1414,1888,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Lewinskya rupestris var. papillosa,"(Lewinsky) F. Lara, Garilleti & Goffinet",Bryophyta,Orthotrichales,Orthotrichaceae,Lewinskya,variety,NE,10.4235,63.4454,1414,1890,"",Unchecked,FALSE,"",smallest ID,6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Flexitrichum flexicaule,(Schwägr.) Ignatov & Fedosov,Bryophyta,Scouleriales,Flexitrichaceae,Flexitrichum,species,NE,10.4216,63.4452,1,2009,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Eurhynchiastrum diversifolium,(Schimp.) J. Guerra,Bryophyta,Hypnales,Brachytheciaceae,Eurhynchiastrum,species,NE,10.4235,63.4454,1414,1889,"",Unchecked,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Cephaloziella rubella,(Nees) Warnst.,Marchantiophyta,Jungermanniales,Cephaloziellaceae,Cephaloziella,species,NE,10.4235,63.4454,1414,1895,Valid,Accepted,FALSE,"","",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
+Anomobryum julaceum,"(Schrad. ex P.Gaertn., B.Mey. & Scherb.) Schimp.",Bryophyta,Bryales,Bryaceae,Anomobryum,species,NE,10.4235,63.4454,1414,1888,Valid,Accepted,TRUE,Anomobryum concinnatum,"",6728c42d-c4b6-4fda-a211-5ad1bb59cda4
